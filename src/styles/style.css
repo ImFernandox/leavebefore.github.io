@@ -38,11 +38,6 @@ h1, h2 {
     height: auto;
 }
 
-.song_div
-{
-    display: none;
-}
-
 #play
 {
     color: var(--azure);
